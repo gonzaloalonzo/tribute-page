@@ -1,0 +1,12 @@
+#main {
+    text-align: center;
+
+    background: rgba(245, 245, 220, 0.863);
+
+}
+
+#timeline {
+    text-align: left;
+    margin-left: 20rem;
+    margin-right: 20rem;
+}
